@@ -291,9 +291,6 @@ namespace serwer
 
                     }
 
-                    //client.Close();
-                    //client2.Close();
-
                 }
 
             }
